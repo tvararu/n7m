@@ -1,9 +1,9 @@
 'use strict';
 
-const docs = `n7m(1)                           NUMERONYMISE                            n7m(1)
+const docs = `n7m(1)                             NUMERONYM                             n7m(1)
 
 NAME
-    numeronymise: turn words into their number based acronyms.
+    numeronym: turn words into their number based acronyms.
 
 SYNOPSIS
     /<word>

@@ -1,6 +1,6 @@
 # n7m
 
-n7m (short for [numeronymise](https://en.wikipedia.org/wiki/Numeronym)) is an AWS Lambda function built with [serverless](https://github.com/serverless/serverless) that turns words into their number based acronyms.
+n7m (short for [numeronym](https://en.wikipedia.org/wiki/Numeronym)) is an AWS Lambda function built with [serverless](https://github.com/serverless/serverless) that turns words into their number based acronyms.
 
 ```bash
 $ curl https://n7m.vararu.org/accessibility
