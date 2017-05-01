@@ -19,7 +19,7 @@ EXAMPLES
        i18n
 
 SEE ALSO
-    http://github.com/tvararu/n7m
+    https://github.com/tvararu/n7m
     https://en.wikipedia.org/wiki/Numeronym
 `;
 
